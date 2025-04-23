@@ -11,6 +11,14 @@ Our goal was to evaluate and compare the performance of these models across two 
 
 Through this comparison, we aim to identify the most effective model for sentiment analysis tasks, providing valuable insights into optimizing sentiment prediction for both short and long textual content.
 
+## 📊 Datasets
+
+The datasets used in this study are publicly available, and we used them to train and evaluate the models. The details of the datasets are as follows:
+
+- **IMDB Movie Review Dataset**: This dataset contains 50,000 movie reviews from IMDB. It provides a binary sentiment classification task (positive or negative) and is well-known for its usefulness in sentiment analysis tasks. You can access the dataset here: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews.
+
+- **TripAdvisor Hotel Review Dataset**: This dataset contains 20,000 hotel reviews from TripAdvisor, which are typically more diverse and informal. It is suitable for sentiment analysis tasks involving more nuanced text. The dataset can be downloaded from here: https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews
+
 ## 🌟 Project Highlights
 
 - **Model Comparison**: A head-to-head evaluation of LSTM, BiLSTM, and GRU, focusing on key metrics such as accuracy, precision, recall, and F1-score.
